@@ -1,0 +1,50 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.2.9",
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
+    "@hookform/resolvers": "^2.9.7",
+    "@mui/material": "^5.10.2",
+    "axios": "^0.27.2",
+    "bad-words": "^3.0.4",
+    "card-validator": "^8.1.1",
+    "device": "^0.3.12",
+    "form-data": "^4.0.0",
+    "framer-motion": "^7",
+    "geoip-lite": "^1.4.6",
+    "mobile-detect": "^1.4.5",
+    "multiparty": "^4.2.3",
+    "next": "12.2.5",
+    "next-connect": "^0.13.0",
+    "nodemailer": "^6.7.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.2",
+    "react-input-mask": "^2.0.4",
+    "react-webcam": "^7.0.1",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@types/bad-words": "^3.0.1",
+    "@types/geoip-lite": "^1.4.1",
+    "@types/multiparty": "^0.0.33",
+    "@types/node": "18.7.13",
+    "@types/nodemailer": "^6.4.5",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "@types/react-input-mask": "^3.0.1",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "sass": "^1.54.8",
+    "typescript": "4.8.2"
+  }
+}
